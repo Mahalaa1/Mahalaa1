@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi, I'm Austin
+
+#### About Me
+I'm an Information Systems major at East Tennessee State University.  
+I'm currently learning Linux in my free time with old laptops that can barely run Windows.  
+Hiking is my favorite hobby.
+
+#### Languages I have used so far:
+- Java
+- C#
+- SQL/PL
+- HTML/CSS/Javascript
+- R
 
 <!--
 **Mahalaa1/Mahalaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
